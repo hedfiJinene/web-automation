@@ -39,14 +39,22 @@ TestNG 7.10
 Maven
 Page Object Model
 
+Cas de test 
+a-Connexion réussie
+b-Ajouter un produit au panier
+
 4_Résultat attendu
 
-Lors de l’exécution :
-
+a-Lors de l’exécution :
 Le navigateur s’ouvre
-
 Le site SauceDemo se charge
-
 Le test de connexion réussie s’exécute
-
 Le navigateur se ferme automatiquement
+
+b-Lors de l'exécution 
+Lors de l’exécution :
+Le navigateur s’ouvre
+Le site SauceDemo se charge
+Le test de connexion réussie s’exécute
+le test d'ajout de produit réussie s'exécute
+le navigateur se ferme automatiquement
